@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cyan Huang",
+    "section": "",
+    "text": "Enter your biography blurb here."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\nThis is an about me page"
+  },
+  {
+    "objectID": "projects/project-a/index.html",
+    "href": "projects/project-a/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Project A"
+  }
+]
